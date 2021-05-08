@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steakpao
 - 👀 I’m interested in IoT, Automation and App Dev
 - 💞️ I’m looking to collaborate on ...
-- 📫  to reach me DM @iambrandonpereira on instagram!
+- 📫  to reach me DM @iam_brandonpereira on instagram!
 
 <!---
 steakpao/steakpao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
